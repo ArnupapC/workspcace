@@ -10,6 +10,7 @@ create for seminar CI/CD Azure git
 public class{
     public static void main(String args[]){
         system.out.print("Hi There!!")
-        system.out.print("Hi There again!!")
+        system.out.print("Hi There second!!")
+        system.out.print("Hi There Third!!")
     }
 }
