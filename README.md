@@ -6,6 +6,6 @@ public class{
     public static void main(String args[]){
         system.out.print("Hi There!!")
         system.out.print("Hi There second!!")
-        system.out.print("Hi There too!!")
+        system.out.print("Hi There Third!!")
     }
 }
